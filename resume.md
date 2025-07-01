@@ -1,37 +1,62 @@
 # Khanif Nursafi
 
-###### Current location: _Almaty, Kazakhstan_
+**Backend Developer | Java + Spring Boot | Microservices | System Design | Data Modeling**  
+📍 _Almaty, Kazakhstan_  
+[kkhaniffff@gmail.com](mailto:kkhaniffff@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kkhaniffff/) • [Telegram](https://t.me/kkhaniffff) • [GitHub](https://github.com/kkhaniffff) • [LeetCode](https://leetcode.com/kkhaniffff)
 
-###### [ [kkhaniffff@gmail.com](mailto:kkhaniffff@gmail.com) ] . [ [https://t.me/kkhaniffff](https://t.me/kkhaniffff) ] . [ [github.com/kkhaniffff](https://github.com/kkhaniffff) ] . [ [leetcode.com/kkhaniffff](https://leetcode.com/kkhaniffff) ]
+---
 
-## Education
+## Summary
 
-### International Information Technologies University, _Almaty, Sep 2019 - Jul 2023_
+Result-oriented backend engineer with 4+ years of hands-on experience in Java and Spring ecosystem.  
+Proficient in building scalable backend systems, designing APIs and optimizing data-heavy applications.  
+Strong problem-solver with 500+ LeetCode problems solved (Ranked top 10 in Kazakhstan in several contests).  
+Passionate about clean architecture, efficient development, and delivering high-impact results in distributed teams.  
+Looking for remote opportunities with product-driven companies.
 
-Bachelor of Information and Communication Technologies, Speciality - _Engineering Mathematics_, GPA - _3.37/4.00_
-
-**Relevant courses**: Discrete Mathematics and Mathematical Logic, Object-Oriented Programming, Data Structures and Algorithms, Programming in Java, Database and Client/Server Applications, Probability Theory and Mathematical Statistics
-
-## Professional Experience
-
-### Backend Developer - Lean Solutions, _Almaty, Feb 2021 - Present_
-
-- **Engineered** four backend projects from inception, establishing scalable and maintainable architectures.
-- **Developed & Delivered** 70-90% of feature implementations, meeting tight deadlines.
-- **Designed** and optimized database structures, ensuring efficient data retrieval and storage.
-- **Integrated** external APIs and services, improving system interoperability.
-- **Refactored** existing codebases to enhance maintainability and performance.
-- **Debugged & Resolved** critical issues, reducing downtime and improving system reliability.
-- **Mentored** junior developers by conducting code reviews and providing constructive feedback.
-- **Solved** 500+ LeetCode problems, ranked top 10 in Kazakhstan in multiple contests.
-- **Algorithmic Expertise**: Strong problem-solving skills in data structures, algorithms, and system design.
+---
 
 ## Skills
 
-**Languages**: Java, C, Shell, SQL
+- **Languages**: Java, SQL, Shell, C  
+- **Frameworks**: Spring (Boot, Web, Security, Data JPA), Hibernate, JUnit, Mockito, Apache POI
+- **Databases**: PostgreSQL, MySQL, MongoDB, Neo4j  
+- **Tools & Platforms**: Docker, Git, Maven, RabbitMQ, ElasticSearch, Unix CLI  
+- **Concepts**: REST APIs, Microservices, Clean Architecture, Algorithms & Data Structures, CI/CD, Code Reviews
 
-**Databases**: MySQL, PostgreSQL, MongoDB, Neo4j
+---
 
-**Tools & Technologies**: Docker, Maven, Git, Unix tools, RabbitMQ, REST APIs 
+## Professional Experience
 
-**Frameworks & Libraries**: Spring (Boot, Security, Data JPA, AOP), Hibernate, JUnit, Mockito, Apache Commons
+### Backend Developer — Lean Solutions  
+_Almaty, Feb 2021 – Present_
+
+- **Led** development of 4 backend projects from scratch using Java and Spring Boot, designing modular and scalable architectures.
+- **Acted** as the primary backend developer, personally delivering 70–80% of all core features across projects.
+- **Designed** and optimized database structures, ensuring efficient data retrieval and storage.
+- **Integrated** external services (tracking systems, third-party APIs), improving system interoperability and extensibility.
+- **Refactored** legacy modules to reduce technical debt, improving maintainability and performance metrics.
+- **Debugged & Resolved** critical issues, reducing downtime and improving system reliability.
+- **Mentored** junior engineers, conducted code reviews, and supported team-wide best practices.
+- **Contributed** to internal tooling and shared libraries for development acceleration.
+
+---
+
+## Education
+
+### International Information Technologies University  
+_Almaty, Sep 2019 – Jul 2023_
+
+**B.Sc. in Information and Communication Technologies**, Specialization: _Engineering Mathematics_  
+**GPA**: 3.37 / 4.00
+
+**Relevant coursework**:  
+Discrete Mathematics, Java Programming, Data Structures and Algorithms, DBMS, Mathematical Logic, Probability & Statistics
+
+---
+
+## Highlights
+
+- Solved **500+ LeetCode** problems, consistently ranked Top 10 in Kazakhstan contests  
+- Built microservices-based REST API projects for internal use (task tracking, analytics modules)  
+- Fluent in English (C1); experienced in async remote collaboration  
